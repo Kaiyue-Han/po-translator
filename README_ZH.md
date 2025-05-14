@@ -36,7 +36,7 @@ run.bat                    # 直接双击亦可
 git clone https://github.com/Kaiyue-Han/po-translator.git
 cd po-translator
 python -m pip install -r requirements.txt   # 第一次安装依赖
-python po_translator_gui_bi.py              # 启动界面
+python po_translator.py              # 启动界面
 ```
 
 ## 🔑 DeepL API Key
