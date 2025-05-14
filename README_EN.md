@@ -38,7 +38,7 @@ First launch creates a virtual environment and downloads dependencies.
 git clone https://github.com/Kaiyue-Han/po-translator.git
 cd po-translator
 python -m pip install -r requirements.txt   # one-time install
-python po_translator_gui_bi.py              # launch GUI
+python po_translator.py              # launch GUI
 ```
 ## 🔑 DeepL API Key
 1. Sign up at https://www.deepl.com/ and grab your key.
