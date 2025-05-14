@@ -46,7 +46,7 @@ python po_translator_gui_bi.py              # launch GUI
 3. Paste the key into the GUI (masked input).
 
 ## ⚠️ Tips
-1. **Back up original .po files before translation**.
+1. Although the script never edits your original file directly, **always back up the source file** before you start translating.
 2. **Test with a small sample first** to avoid wasting quota.
 3. DeepL does NOT support Simplified ⇄ Traditional Chinese yet.
 4. Strings shorter than 5 characters are always sent to DeepL (detection is unreliable).
