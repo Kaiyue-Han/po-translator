@@ -1,4 +1,4 @@
-# PO-Translator GUI
+# PO-Translator
 > DeepL-powered PO-file translator with a bilingual Tkinter interface  
 
 ---
